@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about programming and enjoy working
 - **Languages:** Python, JavaScript, Java, C
 - **Web Development:** HTML, CSS, React, Node.js, Express.js, Next.js
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Technologies:** Git, Docker, Kubernetes, AWS, TensorFlow
+- **Tools & Technologies:** Git, AWS, TensorFlow
 
 ## My Research Papers:
 
