@@ -12,17 +12,25 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-740-black?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits"/>
   <img src="https://img.shields.io/badge/Location-Vadodara,%20India-black?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Portfolio-vatsajoshi.in-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/GitHub-Vatsa10-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <!-- Clickable Portfolio Badge -->
+  <a href="https://vatsajoshi.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-vatsajoshi.in-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <!-- Clickable LinkedIn Badge -->
+  <a href="https://linkedin.com/in/vatsa-joshi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Clickable GitHub Badge -->
+  <a href="https://github.com/Vatsa10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Vatsa10-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vatsa10&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true&hide_title=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsa10&layout=compact&theme=vision-friendly-dark&hide_title=true" height="160" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsa10&theme=vision-friendly-dark" height="160" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsa10&layout=compact&theme=vision-friendly-dark&hide_title=true" height="160" alt="Top Languages"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsa10&theme=vision-friendly-dark" height="160" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -114,9 +122,8 @@ Communication · Problem Solving · Team Leadership · Task Management · Writte
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/open-book.png" alt="Publications" style="vertical-align:middle"/> Publications
 
-- [Report and Analysis of Rabin Karp Algorithm – ResearchGate](#)
-- [Blockchain Technology – ResearchGate](#)
-
+- [Blockchain Technology](http://dx.doi.org/10.13140/RG.2.2.32465.75365)
+- [Report and Analysis of Rabin Karp Theorem](https://doi.org/10.13140/RG.2.2.24592.01283)
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/idea.png" alt="Idea" style="vertical-align:middle"/> Fun Fact
