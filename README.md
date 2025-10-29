@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-735-black?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-740-black?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits"/>
   <img src="https://img.shields.io/badge/Location-Vadodara,%20India-black?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Portfolio-vatsajoshi.in-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   <img src="https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
