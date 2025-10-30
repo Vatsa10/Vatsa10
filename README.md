@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsa10&layout=compact&theme=vision-friendly-dark&hide_title=true" height="160" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsa10&layout=compact&theme=vision-friendly-dark&hide_title=false" height="160" alt="Top Languages"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsa10&theme=vision-friendly-dark" height="160" alt="GitHub Streak"/>
 </p>
 
