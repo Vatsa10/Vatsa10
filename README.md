@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits%202025-800+-black?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits"/>
+  <img src="https://img.shields.io/badge/Total%20Commits%202025-900+-black?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits"/>
   <img src="https://img.shields.io/badge/Location-Vadodara,%20India-black?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
       <!-- Clickable Portfolio Badge -->
   <a href="https://vatsajoshi.in" target="_blank">
