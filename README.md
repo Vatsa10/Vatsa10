@@ -52,7 +52,7 @@ I am a B.Tech Computer Science student at Navrachana University, Vadodara, with 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/work.png" alt="Work" style="vertical-align:middle"/> Work Experience
 - **SE-1 (Founders Office)**  
   *Promact*  
-  Jan 2026
+  Jan 2026 - Present
 
 - **Full Stack Dev Intern**  
   *Hiraeth Tech*  
