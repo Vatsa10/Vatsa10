@@ -29,12 +29,12 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsa10&layout=compact&theme=vision-friendly-dark&hide_title=false" height="160" alt="Top Languages"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsa10&layout=compact&theme=vision-friendly-dark&hide_title=false" height="160" alt="Top Languages"/> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsa10&theme=vision-friendly-dark" height="160" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vatsa10&theme=discord&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Vatsa10&theme=discord&no-frame=true&row=1&column=7" alt="GitHub Trophies"/> -->
 </p>
 
 <p align="center">
@@ -50,10 +50,13 @@ I am a B.Tech Computer Science student at Navrachana University, Vadodara, with 
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/work.png" alt="Work" style="vertical-align:middle"/> Work Experience
+- **SE-1 (Founders Office) **  
+  *Promact*  
+  Jan 2026
 
 - **Full Stack Dev Intern**  
   *Hiraeth Tech*  
-  June 2025 - Present
+  June 2025 - December 2025
 
 - **Deep Learning Engineer Intern**  
   *Prodigal AI* (Remote)  
