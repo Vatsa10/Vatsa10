@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2200&pause=550&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=vatsa.joshi.;building+agents+that+ship.;full-stack+ai+engineer.;agentic+%C2%B7+RAG+%C2%B7+fine-tuning.;wrote+a+transformer+in+rust.;ieee-published+%C2%B7+deepfake+net.;open-source+%C2%B7+pioneer-agent+reimpl.;multi-agent+%3E+monolith.;tokens%2Fsec+%3E+tokens%2Fdollar." alt="vatsa joshi"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2200&pause=550&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=vatsa-joshi.;building+agents+that+ship.;full-stack+ai+engineer.;agentic+%C2%B7+RAG+%C2%B7+fine-tuning.;wrote+a+transformer+in+rust.;ieee-published+%C2%B7+deepfake+net.;open-source+%C2%B7+pioneer-agent+reimpl.;multi-agent+%3E+monolith.;tokens%2Fsec+%3E+tokens%2Fdollar." alt="vatsa joshi"/>
 
 <br/>
 
